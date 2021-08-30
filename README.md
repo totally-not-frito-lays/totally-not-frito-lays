@@ -7,21 +7,21 @@
 - 🤖 Robotics -- I founded and mentored a FTC Robotics Team [(see my 2016 recap)](https://youtu.be/svJWyWrwLh4), I want to help robots find their place in the world (computer vision)
 - 🎥 Entertainment -- "One of the most important things in people's lives. Without it, [people] might go off the deep end" - Stan Lee
 
-> Here's some stuff I'm doing now to avoid being a :chair: :potato:
-- 🥅 2021 Goals -> Publish portfolio website 
+> Here's some stuff I'm doing now to avoid being a couch potato
 - 🏫 finding a degree in **Computer Science Engineering** at **UC San Diego**
-- 🍩 Baking up some Blender'd Donuts
-- 🎙️ Working on Ricking the world's Rolls
-- 📷 Shooting first then asking questions later
+- 🥅 2021 Goals -> Publish portfolio website [Demo](https://totally-not-frito-lays.github.io/) | [(Repo)](https://github.com/totally-not-frito-lays/totally-not-frito-lays.github.io) |
+- 🍩 Baking up some Blender'd Donuts | [Demo](https://totally-not-frito-lays.github.io/Donut/) | [(Repo)](https://github.com/totally-not-frito-lays/Donut) |
+- 🎙️ Working on Ricking the world's Rolls | [Demo](https://totally-not-frito-lays.github.io/RickRollBot/) | [(Repo)](https://github.com/totally-not-frito-lays/RickRollBot) |
+- 📷 Shooting first then asking questions later | [Flickr](https://www.flickr.com/photos/137664649@N02) | [Other sources pending]()
 
 
 > What I've got on my tool belt
 - 📽️ Languages I've built a decent project with -- Vanilla JavaScript, Java, C++
 - 🔤 Languages I've experimented with -- Python, Bash, GodotScript, LATEX, MatLab
-- 🖥️ Technologies I use regularly -- Linux, Blender, Git, RawTherapee
+- 🖥️ Technologies I use regularly -- Linux, Blender, Git, RawTherapee, Notion
 - 👨‍🎓 Technical Classes -- Advanced Data Structures, Object Oriented Programming, Theory of Computation, Algorithm Design and Analysis, Linear Algebra, Calculus
 - 🎨 Interest Classes -- Cognitive Consequences of Technology, Design of Everyday Things, Teaching Computational Thinking for Everyone
 
-> What am I learning?
-- 🍼 Libraries I'm learning -- Blender API, Three.JS, Anime.JS
-- 🏗️ Technologies I'm learning -- Godot, Zapier and Integrations, Social Media Bots, 3d Printing and CAD
+> What I'm learning
+- 🍼 Libraries I'm learning -- [Blender API](https://docs.blender.org/api/current/info_overview.html), [Three.JS](https://threejs.org/), [Anime.JS](https://animejs.com/)
+- 🏗️ Technologies I'm learning -- [Godot](https://godotengine.org/), Zapier and Integrations, Social Media Bots, 3d Printing and CAD
