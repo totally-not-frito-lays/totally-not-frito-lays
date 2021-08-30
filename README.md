@@ -13,6 +13,7 @@
 - 🍩 Baking up some Blender'd Donuts | [Demo](https://totally-not-frito-lays.github.io/Donut/) | [(Repo)](https://github.com/totally-not-frito-lays/Donut) |
 - 🎙️ Working on Ricking the world's Rolls | [Demo](https://totally-not-frito-lays.github.io/RickRollBot/) | [(Repo)](https://github.com/totally-not-frito-lays/RickRollBot) |
 - 📷 Shooting first then asking questions later | [Flickr](https://www.flickr.com/photos/137664649@N02) | [Other sources pending]()
+- 🎨 Doodles and things | [Instagram](https://www.instagram.com/slightly_stale_scraps/) |
 
 
 > What I've got on my tool belt
