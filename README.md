@@ -1,18 +1,18 @@
 ### Hello there! I’m Ryan Lay otherwise known as totally-not-frito-lays
 ## "I'm just a simple man trying to make my way in the universe" :milky_way:
-> Here's some stuff I'm doing now to avoid being a :chair: :potato:
-- :school: finding a degree in **Computer Science Engineering** at **UC San Diego**
-- :doughnut: Baking up some Blender'd Donuts
-- :microphone: Working on Ricking the world's Rolls
-- :camera: Shooting first then asking questions later
-- :goal_net: 2021 Goals -> Publish portfolio website 
+> The moon I'm shooting for is colored with interests... here's a few ideas of what I'm shooting for
+- 🧮 Education -- Raised in a small town, I want turn the tides for a smarter future
+- 🏕️ Outdoors -- I'm a proud Eagle Scout and honestly, I want the outdoors to stay pristine
+- 🚴‍♂️ Fitness -- I raced mountain bikes and cross country a combined 8 years, I want to help people stay healthy 
+- 🤖 Robotics -- I founded and mentored a FTC Robotics Team, I want to help robots find their place in the world (computer vision)
+- 🎥 Entertainment -- "One of the most important things in people's lives. Without it, [people] might go off the deep end" - Stan Lee
 
-> Here's some interests I have
-- 🧮 Education -- Raised in a small town, I wanna turn the tides for a brighter future
-- :eagle: Outdoors -- I'm a proud Eagle Scout and honestly, people need to spend more time outdoors
-- :robot: Robotics -- I founded and mentored a FTC Robotics Team and I can't wait to see more automation
-- :runner: Athletics -- I raced Cross Country 4 years and (assistant) coached ~ 13 months 
-- :bike: Athletics -- I raced NICA 4 years and still ride to stay lighter than my bike
+> Here's some stuff I'm doing now to avoid being a :chair: :potato:
+- 🏫 finding a degree in **Computer Science Engineering** at **UC San Diego**
+- 🍩 Baking up some Blender'd Donuts
+- 🎙️ Working on Ricking the world's Rolls
+- 📷 Shooting first then asking questions later
+- 🥅 2021 Goals -> Publish portfolio website 
 
 > What I've got on my tool belt
 - 📽️ Languages I've built a decent project with -- Vanilla JavaScript, Java, C++
