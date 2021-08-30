@@ -8,11 +8,12 @@
 - 🎥 Entertainment -- "One of the most important things in people's lives. Without it, [people] might go off the deep end" - Stan Lee
 
 > Here's some stuff I'm doing now to avoid being a couch potato
-- 🏫 finding a degree in **Computer Science Engineering** at **UC San Diego**
-- 🥅 2021 Goals -> Publish portfolio website [Demo](https://totally-not-frito-lays.github.io/) | [(Repo)](https://github.com/totally-not-frito-lays/totally-not-frito-lays.github.io) |
-- 🍩 Baking up some Blender'd Donuts | [Demo](https://totally-not-frito-lays.github.io/Donut/) | [(Repo)](https://github.com/totally-not-frito-lays/Donut) |
-- 🎙️ Working on Ricking the world's Rolls | [Demo](https://totally-not-frito-lays.github.io/RickRollBot/) | [(Repo)](https://github.com/totally-not-frito-lays/RickRollBot) |
-- 📷 Shooting first then asking questions later | [Flickr](https://www.flickr.com/photos/137664649@N02) | [Other sources pending]()
+- 🏛️ finding a degree in **Computer Science Engineering** at **UC San Diego**
+- 💻 Directing TritonHacks Hackathon | [Website](https://www.tritonhacks.org/) | [GitHub Project](https://github.com/tritonhacks) | [DevPost Submissions (pending)]() |
+- 🥅 2021 Goals -> Publish portfolio website [Demo](https://totally-not-frito-lays.github.io/) | [Repo](https://github.com/totally-not-frito-lays/totally-not-frito-lays.github.io) |
+- 🍩 Baking up some Blender'd Donuts | [Demo](https://totally-not-frito-lays.github.io/Donut/) | [Repo](https://github.com/totally-not-frito-lays/Donut) |
+- 🎙️ Working on Ricking the world's Rolls | [Demo](https://totally-not-frito-lays.github.io/RickRollBot/) | [Repo](https://github.com/totally-not-frito-lays/RickRollBot) |
+- 📷 Shooting first then asking questions later | [Flickr](https://www.flickr.com/photos/137664649@N02) | [(pending)]()
 - 🎨 Doodles and things | [Instagram](https://www.instagram.com/slightly_stale_scraps/) |
 
 
