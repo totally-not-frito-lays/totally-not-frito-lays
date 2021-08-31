@@ -1,11 +1,11 @@
 ### Hello there! I’m Ryan Lay otherwise known as totally-not-frito-lays
 ## "I'm just a simple man trying to make my way in the universe" :milky_way:
-> The moon I'm shooting for is colored with interests... here's a few ideas of what I'm shooting for
+> Interesting sectors I'd like to dive into 
 - 🧮 Education -- Raised in a small town, I want turn the tides for a smarter future
 - 🏕️ Outdoors -- I'm a proud Eagle Scout and honestly, I want the outdoors to stay pristine
 - 🚴‍♂️ Fitness -- I raced mountain bikes and cross country a combined 8 years, I want to help people stay healthy 
 - 🤖 Robotics -- I founded and mentored a FTC Robotics Team [(see my 2016 recap)](https://youtu.be/svJWyWrwLh4), I want to help robots find their place in the world (computer vision)
-- 🎥 Entertainment -- "One of the most important things in people's lives. Without it, [people] might go off the deep end" - Stan Lee
+- 🎥 Entertainment -- *"One of the most important things in people's lives. Without it, [people] might go off the deep end" - Stan Lee*
 
 > Here's some stuff I'm doing now to avoid being a couch potato
 - 🏛️ finding a degree in **Computer Science Engineering** at **UC San Diego**
