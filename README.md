@@ -19,6 +19,7 @@
 
 > What I've got on my tool belt
 - 📽️ Languages I've built a decent project with -- Vanilla JavaScript, Java, C++
+   - *Note: Java and C++ projects are school projects so to avoid Academic Integrity violations I have not shared them on GitHub*
 - 🔤 Languages I've experimented with -- Python, Bash, GodotScript, LATEX, MatLab
 - 🖥️ Technologies I use regularly -- Linux, Blender, Git, RawTherapee, Notion
 - 👨‍🎓 Technical Classes -- Advanced Data Structures, Object Oriented Programming, Theory of Computation, Algorithm Design and Analysis, Linear Algebra, Calculus
