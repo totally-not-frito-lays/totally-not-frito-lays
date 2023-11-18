@@ -7,6 +7,7 @@ I'm a software engineer dabbling in anything related to CS Education. I speciali
 Every year I set some form of engineering goals for what I wanted to achive. Sometimes I achieved them. Sometimes it took a little longer to achive. Sometimes, I'm still trying to achieve them.
 
 ### 2024 Goals
+
 - [ ] Learn to build in public
   - [ ] Start a *this week I built/learned* blog
 - [ ] Build a chrome extension
@@ -15,6 +16,9 @@ Every year I set some form of engineering goals for what I wanted to achive. Som
 - [ ] Build a an open source learning database
 
 ### 2023 Goals
+
+*College payoff. I had a lot of awesome opportunities in my final year of college.*
+
 - [x] Get a software engineering job in CS Education
   - [Embodied Cognition](https://github.com/xrdesign)
   - [Code With Her](https://github.com/codewithher)
@@ -26,7 +30,9 @@ Every year I set some form of engineering goals for what I wanted to achive. Som
 - [ ] Start a public wiki on CS Education
 
 ### 2022 Goals
+
 *I started getting really involved in CS education*
+
 - [x] Lead [TritonHacks](https://github.com/tritonhacks)
 - [x] Lead [CS foreach](https://csforeach.ucsd.edu/)
 - [x] Get an [internship](https://us.zwift.com/)
@@ -42,27 +48,35 @@ Every year I set some form of engineering goals for what I wanted to achive. Som
 - [x] Build a [personal website](https://github.com/totally-not-frito-lays/cse134b-hw5)
 
 ### 2021 Goals
+
 *This is the year I started putting projects on my GitHub and joined a student org*
+
 - [x] Build a [hackathon template](https://github.com/tritonhacks/starter-kits/tree/main/web-crud)
 - [x] Finish the [Donut tutorial](https://github.com/totally-not-frito-lays/Donut)
 - [ ] Learn one of these libraries: {Blender API, Three.JS, Anime.JS, [React](https://github.com/totally-not-frito-lays/React-Basics-TicTacToe)}
 - [ ] Build a [social media bot](https://github.com/totally-not-frito-lays/RickRollBot)
 
 ### 2020 Goals
+
 *My main computer broke, so I decided to learn Linux! Not much else besides classwork*
+
 - [x] Get started with Linux
 - [x] Take some Cognitive Science Classes
 - [x] Learned Python, Jupyterbooks, C++, Data Structures, Algorithms
 - [x] Learned [Project Management](https://github.com/cse110-sp21-group32/cse110-sp21-group32) (kinda)
 
 ### 2019 Goals
+
 *Just starting college*
+
 - [x] Compete in a [hackathon](https://devpost.com/software/breakpoint-u2s9vw)
 - [x] Get into [college](https://ucsd.edu/)
 - [x] Learned Java, C, ARM, Bash
 
 ### 2017 Goals
+
 *My first exposure to computer science*
+
 - [x] ~~Join~~ Start a [robotics team](https://www.youtube.com/watch?v=svJWyWrwLh4&feature=youtu.be)
 - [x] Take a [computer science class](https://www.palomar.edu/csit/csit-information-technology-courses/)
 - [ ] Learn Java
@@ -71,6 +85,6 @@ Every year I set some form of engineering goals for what I wanted to achive. Som
 
 <!-- Readme stats: https://github.com/anuraghazra/github-readme-stats#customization -->
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=totally-not-frito-lays&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=transparent" />
+![Commits](https://github-readme-stats.vercel.app/api?username=totally-not-frito-lays&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=totally-not-frito-lays&size_weight=0&count_weight=1&exclude_repo=FIRE&theme=transparent&layout=compact)](https://github.com/totally-not-frito-lays/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=totally-not-frito-lays&size_weight=0&count_weight=1&exclude_repo=FIRE&theme=transparent&layout=compact)
