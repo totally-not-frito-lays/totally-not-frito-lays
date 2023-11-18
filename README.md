@@ -1,33 +1,76 @@
-# Hello there! 
-> I’m Ryan Lay, otherwise known as totally-not-frito-lays; just trying to find my way in the galaxy 🌌
+# Hello there
 
-## Interests
-> At the end of the day, it's not about the tools, it's about the problems and the solutions.
-- 🧮 Education -- Raised in a small town, I want turn the tides for a smarter future
-- 🏕️ Outdoors -- I'm a proud Eagle Scout and honestly, I want the outdoors to stay pristine
-- 🚴‍♂️ Fitness -- I raced mountain bikes and cross country a combined 8 years, I want to help people stay healthy 
-- 🤖 Robotics -- I founded and mentored a FTC Robotics Team [(see my 2016 recap)](https://youtu.be/svJWyWrwLh4), I want to help robots find their place in the world
-- 🎥 Entertainment -- *"One of the most important things in people's lives. Without it, [people] might go off the deep end" - Stan Lee*
+I'm a software engineer dabbling in anything related to CS Education. I specialize in short-form workshops, bringing 6th-12th grade students from no-code to low-code and from low-code to full-code projects.
 
-## Current Experiences
-> Here's some stuff I'm doing now to avoid being a couch potato
-- 🏛️ finding a degree in **Computer Science Engineering** at **UC San Diego**
-- 💻 Directing TritonHacks Hackathon | [Website](https://www.tritonhacks.org/) | [GitHub Project](https://github.com/tritonhacks) | [DevPost Submissions (pending)]() |
-- 🥅 2021 Goals -> Publish portfolio website [Demo](https://totally-not-frito-lays.github.io/) | [Repo](https://github.com/totally-not-frito-lays/totally-not-frito-lays.github.io) |
-- 🍩 Baking up some Blender'd Donuts | [Demo](https://totally-not-frito-lays.github.io/Donut/) | [Repo](https://github.com/totally-not-frito-lays/Donut) |
-- 🎙️ Working on Ricking the world's Rolls | [Demo](https://totally-not-frito-lays.github.io/RickRollBot/) | [Repo](https://github.com/totally-not-frito-lays/RickRollBot) |
-- 📷 Shooting first then asking questions later | [Flickr](https://www.flickr.com/photos/137664649@N02) | [(pending)]()
-- 🎨 Doodles and things | [Instagram](https://www.instagram.com/slightly_stale_scraps/) |
+## Developing Lifemap
 
-## Tools and technologies
-> What I've got on my tool belt
-- 📽️ Languages I've built a decent project with -- Vanilla JavaScript, Java, C++
-- 🔤 Languages I've experimented with -- Python, Bash, GodotScript, LATEX, MatLab
-- 🖥️ Technologies I use regularly -- Linux, Blender, Git, RawTherapee, Notion
-- 👨‍🎓 Technical Classes -- Advanced Data Structures, Object Oriented Programming, Theory of Computation, Algorithm Design and Analysis, Operating Systems
-- 🎨 Interest Classes -- Cognitive Consequences of Technology, Design of Everyday Things, Teaching Computational Thinking for Everyone
+Every year I set some form of engineering goals for what I wanted to achive. Sometimes I achieved them. Sometimes it took a little longer to achive. Sometimes, I'm still trying to achieve them.
 
-## What I'm learning
-> Staying hungry, staying foolish
-- 🍼 Libraries I'm learning -- [Blender API](https://docs.blender.org/api/current/info_overview.html), [Three.JS](https://threejs.org/), [Anime.JS](https://animejs.com/), [React](https://reactjs.org/)
-- 🏗️ Technologies I'm learning -- [Godot](https://godotengine.org/), Zapier and Integrations, Social Media Bots, 3d Printing and CAD
+### 2024 Goals
+- [ ] Learn to build in public
+  - [ ] Start a *this week I built/learned* blog
+- [ ] Build a chrome extension
+- [ ] Build a transparent social media clone
+- [ ] Build a creative coding project
+- [ ] Build a an open source learning database
+
+### 2023 Goals
+- [x] Get a software engineering job in CS Education
+  - [Embodied Cognition](https://github.com/xrdesign)
+  - [Code With Her](https://github.com/codewithher)
+- [x] Update [personal portfolio](https://ryanlay.super.site/)
+- [x] Compete in another [hackathon](https://github.com/totally-not-frito-lays/plant-trail-populator)
+  - Did not finish 😥
+- [ ] Finish building a project in Astro
+- [ ] Build a [game in Godot](https://github.com/totally-not-frito-lays/Not-Neoncers)
+- [ ] Start a public wiki on CS Education
+
+### 2022 Goals
+*I started getting really involved in CS education*
+- [x] Lead [TritonHacks](https://github.com/tritonhacks)
+- [x] Lead [CS foreach](https://csforeach.ucsd.edu/)
+- [x] Get an [internship](https://us.zwift.com/)
+- [x] Take design classes
+- [x] Make stuff at a makerspace
+- [x] Teach a workshop
+  - [Turtles and Trees](https://padlet.com/rlay4/csfe-turtles-and-trees-xtmujjinhmcvydf2)
+  - [Genetic Algorithms](https://docs.google.com/presentation/d/1rIRnrcpS1t4bA6984eSPluaGea6ZVOLSHXsGjJM_Pow/edit)
+  - [Robotics Class](https://www.notion.so/csforeach/FA23-Monarch-Elective-d0afe97d25c74f70b086ebd1a3f967c8?pvs=4)
+  - [Hour of Code | AI](https://padlet.com/rlay4/hour-of-code-ai-and-bias-at-kavod-aueze1imxhksnwzi)
+  - [Intro to Engineering Design](https://docs.google.com/document/d/e/2PACX-1vQzx8Mz-gku0vLcj0_4kWk9Tf30PYVmktwHSz85x1EZaX3-Kc7iGGK5ZHiD-nqI3PW8z1PJ0gJzcVjv/pub)
+  - ...
+- [x] Build a [personal website](https://github.com/totally-not-frito-lays/cse134b-hw5)
+
+### 2021 Goals
+*This is the year I started putting projects on my GitHub and joined a student org*
+- [x] Build a [hackathon template](https://github.com/tritonhacks/starter-kits/tree/main/web-crud)
+- [x] Finish the [Donut tutorial](https://github.com/totally-not-frito-lays/Donut)
+- [ ] Learn one of these libraries: {Blender API, Three.JS, Anime.JS, [React](https://github.com/totally-not-frito-lays/React-Basics-TicTacToe)}
+- [ ] Build a [social media bot](https://github.com/totally-not-frito-lays/RickRollBot)
+
+### 2020 Goals
+*My main computer broke, so I decided to learn Linux! Not much else besides classwork*
+- [x] Get started with Linux
+- [x] Take some Cognitive Science Classes
+- [x] Learned Python, Jupyterbooks, C++, Data Structures, Algorithms
+- [x] Learned [Project Management](https://github.com/cse110-sp21-group32/cse110-sp21-group32) (kinda)
+
+### 2019 Goals
+*Just starting college*
+- [x] Compete in a [hackathon](https://devpost.com/software/breakpoint-u2s9vw)
+- [x] Get into [college](https://ucsd.edu/)
+- [x] Learned Java, C, ARM, Bash
+
+### 2017 Goals
+*My first exposure to computer science*
+- [x] ~~Join~~ Start a [robotics team](https://www.youtube.com/watch?v=svJWyWrwLh4&feature=youtu.be)
+- [x] Take a [computer science class](https://www.palomar.edu/csit/csit-information-technology-courses/)
+- [ ] Learn Java
+
+---
+
+<!-- Readme stats: https://github.com/anuraghazra/github-readme-stats#customization -->
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=totally-not-frito-lays&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=transparent" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=totally-not-frito-lays&size_weight=0&count_weight=1&exclude_repo=FIRE&theme=transparent&layout=compact)](https://github.com/totally-not-frito-lays/github-readme-stats)
