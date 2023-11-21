@@ -27,6 +27,7 @@ Every year I set some form of engineering goals for what I wanted to achive. Som
   - Did not finish 😥
 - [ ] Finish building a project in Astro
 - [ ] Build a [game in Godot](https://github.com/totally-not-frito-lays/Not-Neoncers)
+  - [ ] Following a [tutorial here](https://github.com/totally-not-frito-lays/Godot4-Heart_Platformer)
 - [ ] Start a public wiki on CS Education
 
 ### Archived Goals
