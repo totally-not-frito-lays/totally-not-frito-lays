@@ -8,12 +8,12 @@ Every year I set some form of engineering goals for what I wanted to achive. Som
 
 ### 2024 Goals
 
+*This year I've spent as a sort of "gap-year" to figure out what sort of educator / engineer I want to become.*
+
 - [ ] Learn to build in public
   - [ ] Start a *this week I built/learned* blog
-- [ ] Build a chrome extension
-- [ ] Build a transparent social media clone
+- [ ] Complete and launch a side project
 - [ ] Build a creative coding project
-- [ ] Build a an open source learning database
 
 ### 2023 Goals
 
