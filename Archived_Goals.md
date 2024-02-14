@@ -6,6 +6,21 @@ The goals on this page are just previous year's goals and achievements stored in
 
 Every year I set some form of engineering goals for what I wanted to achive. Sometimes I achieved them. Sometimes it took a little longer to achive. Sometimes, I'm still trying to achieve them.
 
+### 2023 Goals
+
+*College payoff. I had a lot of awesome opportunities in my final year of college.*
+
+- [x] Get a software engineering job in CS Education
+  - [Embodied Cognition](https://github.com/xrdesign)
+  - [Code With Her](https://github.com/codewithher)
+- [x] Update [personal portfolio](https://ryanlay.super.site/)
+- [x] Compete in another [hackathon](https://github.com/totally-not-frito-lays/plant-trail-populator)
+  - Did not finish 😥
+- [ ] Finish building a project in Astro
+- [ ] Build a [game in Godot](https://github.com/totally-not-frito-lays/Not-Neoncers)
+  - [ ] Following a [tutorial here](https://github.com/totally-not-frito-lays/Godot4-Heart_Platformer)
+- [ ] Start a public wiki on CS Education
+
 ### 2022 Goals
 
 *I started getting really involved in CS education*
