@@ -1,6 +1,6 @@
 # Hello there
 
-I'm a software engineer dabbling in anything related to CS Education. I specialize in short-form workshops, bringing 6th-12th grade students from no-code to low-code and from low-code to full-code projects.
+I'm a software engineer dabbling in anything related to CS Education. I specialize in short-form workshops, bringing 6th-12th grade students from no-code to low-code and from low-code to full-code projects. It's been a long process trying to migrate everything over to GitHub but like all organization debt, it's a work in progress.
 
 ## Developing Lifemap
 
@@ -13,7 +13,7 @@ Every year I set some form of engineering goals for what I wanted to achive. Som
 - [ ] Learn to build in public
   - [ ] Start a *this week I built/learned* blog
 - [ ] Complete and launch a side project
-- [ ] Build a creative coding project
+- [ ] Build and release a creative coding project
 
 ### Archived Goals
 
